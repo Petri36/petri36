@@ -1,5 +1,9 @@
 # 💫 About Me:
-¡Hola! Soy Agustín Petrini, tengo 25 años y me desempeño como desarrollador Fullstack. Actualmente me encuentro finalizando el Bootcamp de Henry, donde he adquirido habilidades y conocimientos en tecnologías como React, Node.js, Express y PostgreSQL, entre otras.<br>Además de mis habilidades técnicas, también cuento con un nivel avanzado de inglés, lo que me permite comunicarme eficazmente en el entorno laboral y mantenerme actualizado en cuanto a las últimas tendencias y desarrollos en tecnología.<br>Soy apasionado por el desarrollo de software y me motiva mucho trabajar en proyectos desafiantes y con equipos multidisciplinarios. Siempre estoy buscando nuevas oportunidades para crecer profesionalmente y seguir aprendiendo. ¡Estoy emocionado por ver qué nuevos desafíos me esperan en el futuro!
+¡Hola! Soy Agustín Petrini, tengo 25 años y soy un desarrollador Fullstack con conocimientos sólidos en diversas tecnologías de frontend y backend. Actualmente, estoy finalizando el Bootcamp de Henry, donde he aprendido a trabajar con HTML y CSS, React.js y Next.js para el desarrollo de aplicaciones web en el frontend.
+
+En cuanto al backend, cuento con experiencia en Node.js, Express, Hapi, PostgreSQL, Sequelize y MongoDB para crear aplicaciones robustas y escalables en el servidor. Soy un apasionado por el desarrollo de software y siempre estoy buscando nuevos desafíos y oportunidades para seguir aprendiendo y creciendo profesionalmente.
+
+Si estás buscando un desarrollador Fullstack que pueda trabajar en proyectos desafiantes y con equipos multidisciplinarios, no dudes en contactarme a mi Whatsapp (+549-3402-500449). Estoy emocionado por ver qué nuevas oportunidades me esperan en el futuro y cómo puedo aplicar mis habilidades y conocimientos en el desarrollo de aplicaciones web de alta calidad.
 
 
 ## 🌐 Socials:
