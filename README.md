@@ -1,3 +1,4 @@
+![Black Yellow Modern Programmer LinkedIn Banner (2)](https://user-images.githubusercontent.com/109110678/234416327-d5b2e19b-1b02-4af4-9be5-bb2eabb38a4a.png)
 # 💫 About Me:
 ¡Hola! Soy Agustín Petrini, tengo 25 años y soy un desarrollador Fullstack con conocimientos sólidos en diversas tecnologías de frontend y backend. Actualmente, estoy finalizando el Bootcamp de Henry, donde he aprendido a trabajar con HTML y CSS, React.js y Next.js para el desarrollo de aplicaciones web en el frontend.
 
