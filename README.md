@@ -1,10 +1,14 @@
 ![Black Yellow Modern Programmer LinkedIn Banner (2)](https://user-images.githubusercontent.com/109110678/234416327-d5b2e19b-1b02-4af4-9be5-bb2eabb38a4a.png)
 # 💫 About Me:
-¡Hola! Soy Agustín Petrini, tengo 25 años y soy un desarrollador Fullstack con conocimientos sólidos en diversas tecnologías de frontend y backend. Actualmente, estoy finalizando el Bootcamp de Henry, donde he aprendido a trabajar con HTML y CSS, React.js y Next.js para el desarrollo de aplicaciones web en el frontend.
+¡Hola! Soy Agustín Petrini, tengo 25 años y soy un desarrollador Fullstack con experiencia en diversas tecnologías de frontend y backend. En el frontend, he trabajado con HTML y CSS para crear interfaces de usuario atractivas y responsivas, así como con React.js, Next.js, Zustand y Redux para desarrollar aplicaciones web dinámicas y escalables.
 
-En cuanto al backend, cuento con experiencia en Node.js, Express, Hapi, PostgreSQL, Sequelize y MongoDB para crear aplicaciones robustas y escalables en el servidor. Soy un apasionado por el desarrollo de software y siempre estoy buscando nuevos desafíos y oportunidades para seguir aprendiendo y creciendo profesionalmente.
+En cuanto al backend, cuento con experiencia en Node.js, Express y Hapi para la creación de servidores robustos y eficientes, y en bases de datos como PostgreSQL, Sequelize y MongoDB para almacenar y gestionar grandes cantidades de información.
 
-Si estás buscando un desarrollador Fullstack que pueda trabajar en proyectos desafiantes y con equipos multidisciplinarios, no dudes en contactarme! (petriniagustin41521@gmail.com). Estoy emocionado por ver qué nuevas oportunidades me esperan en el futuro y cómo puedo aplicar mis habilidades y conocimientos en el desarrollo de aplicaciones web de alta calidad.
+Como apasionado por el desarrollo de software, estoy siempre en busca de nuevos desafíos y oportunidades para seguir creciendo profesionalmente y aplicando mis habilidades y conocimientos en proyectos innovadores y desafiantes.
+
+Si estás buscando un desarrollador Fullstack capaz de trabajar en equipo y en proyectos desafiantes, no dudes en contactarme. Estoy emocionado por explorar nuevas oportunidades y descubrir cómo puedo contribuir al desarrollo de aplicaciones web de alta calidad.
+
+Email: petriniagustin41521@gmail.com
 
 
 ## 🌐 Socials:
