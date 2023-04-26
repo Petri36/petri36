@@ -4,7 +4,7 @@
 
 En cuanto al backend, cuento con experiencia en Node.js, Express, Hapi, PostgreSQL, Sequelize y MongoDB para crear aplicaciones robustas y escalables en el servidor. Soy un apasionado por el desarrollo de software y siempre estoy buscando nuevos desafíos y oportunidades para seguir aprendiendo y creciendo profesionalmente.
 
-Si estás buscando un desarrollador Fullstack que pueda trabajar en proyectos desafiantes y con equipos multidisciplinarios, no dudes en contactarme! (petriniagustin41521@gmail.com) Estoy emocionado por ver qué nuevas oportunidades me esperan en el futuro y cómo puedo aplicar mis habilidades y conocimientos en el desarrollo de aplicaciones web de alta calidad.
+Si estás buscando un desarrollador Fullstack que pueda trabajar en proyectos desafiantes y con equipos multidisciplinarios, no dudes en contactarme! (petriniagustin41521@gmail.com). Estoy emocionado por ver qué nuevas oportunidades me esperan en el futuro y cómo puedo aplicar mis habilidades y conocimientos en el desarrollo de aplicaciones web de alta calidad.
 
 
 ## 🌐 Socials:
