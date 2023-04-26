@@ -4,12 +4,11 @@
 
 En cuanto al backend, cuento con experiencia en Node.js, Express y Hapi para la creación de servidores robustos y eficientes, y en bases de datos como PostgreSQL, Sequelize y MongoDB para almacenar y gestionar grandes cantidades de información.
 
-Como apasionado por el desarrollo de software, estoy siempre en busca de nuevos desafíos y oportunidades para seguir creciendo profesionalmente y aplicando mis habilidades y conocimientos en proyectos innovadores y desafiantes.
+Como apasionado por el desarrollo de software, estoy siempre en busca de nuevos retos y oportunidades para seguir creciendo profesionalmente y aplicando mis habilidades y conocimientos en proyectos innovadores y desafiantes.
 
-Si estás buscando un desarrollador Fullstack capaz de trabajar en equipo y en proyectos desafiantes, no dudes en contactarme. Estoy emocionado por explorar nuevas oportunidades y descubrir cómo puedo contribuir al desarrollo de aplicaciones web de alta calidad.
+Si estás buscando un desarrollador Fullstack capaz de trabajar en equipo y en proyectos ambiciosos, no dudes en contactarme. Estoy emocionado por explorar nuevas oportunidades y descubrir cómo puedo contribuir al desarrollo de aplicaciones web de alta calidad.
 
 Email: petriniagustin41521@gmail.com
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AgustinPetrini36) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agustinpetrini) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agustín-petrini-a6175521a) 
