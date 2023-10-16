@@ -2,7 +2,7 @@
 # 💫 About Me:
 ¡Hola! Soy Agustín Petrini, tengo 25 años y soy un desarrollador Fullstack con experiencia en diversas tecnologías de frontend y backend. En el frontend, he trabajado con HTML y CSS para crear interfaces de usuario atractivas y responsivas, así como con React.js, Next.js, Zustand y Redux para desarrollar aplicaciones web dinámicas y escalables.
 
-En cuanto al backend, cuento con experiencia en Node.js, Express y Hapi para la creación de servidores robustos y eficientes, y en bases de datos como PostgreSQL, Sequelize y MongoDB para almacenar y gestionar grandes cantidades de información.
+En cuanto al backend, cuento con experiencia en Node.js, Express, Docker y Hapi para la creación de servidores robustos y eficientes, y en bases de datos como PostgreSQL, Sequelize y MongoDB para almacenar y gestionar grandes cantidades de información.
 
 Como apasionado por el desarrollo de software, estoy siempre en busca de nuevos retos y oportunidades para seguir creciendo profesionalmente y aplicando mis habilidades y conocimientos en proyectos innovadores y desafiantes.
 
