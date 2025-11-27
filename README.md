@@ -21,7 +21,8 @@ Me gustan los proyectos donde haya que:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AgustinPetrini36)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agustinpetrini)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agustín-petrini-a6175521a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://portfolio-agustin-petrini.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=%23FF7139)](https://portfolio-agustin-petrini.vercel.app/)
+
 
 
 ---
